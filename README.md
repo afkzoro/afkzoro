@@ -28,25 +28,26 @@
 ## About me 👨🏻‍💻
 I'm a passionate software engineer with a specialization in backend development and DevOps. I thrive on building robust and scalable systems that power innovative solutions. Alongside my technical expertise, I'm also an avid technical writer, sharing my knowledge and experiences with the community.
 
-💻 Backend Development
+💻 Backend Development<br>
 With a strong foundation in backend development, I have hands-on experience in designing and implementing efficient APIs, data modeling, and database management. I'm well-versed in various programming languages such as Python, Java, and Go, and I love leveraging frameworks and libraries like Django, Spring Boot, and Gin to accelerate development and ensure code quality.
 
-☁️ DevOps
+☁️ DevOps<br>
 I'm deeply passionate about DevOps practices and believe in the power of automation and continuous integration/continuous deployment (CI/CD) pipelines. I have expertise in containerization using Docker and orchestration with tools like Kubernetes. I also have experience with cloud platforms such as AWS and Azure, enabling me to deploy scalable and highly available applications.
 
-✍️ Technical Writing
+✍️ Technical Writing<br>
 In addition to my engineering skills, I'm an enthusiastic technical writer. I enjoy breaking down complex concepts into easily understandable pieces, creating tutorials, guides, and documentation for developers. Through my writing, I aim to empower others with knowledge and help them overcome challenges in their own software development journeys.
 
-🌟 Open Source Contributions
+🌟 Open Source Contributions<br>
 I actively contribute to open source projects, collaborating with developers worldwide to improve and enhance software tools and libraries. I believe in the power of community-driven development and enjoy sharing my expertise while learning from others.
 
-🚀 Continuous Learning
+🚀 Continuous Learning<br>
 The tech industry is constantly evolving, and I thrive on staying up to date with the latest trends and technologies. I regularly participate in conferences, webinars, and online courses to expand my skill set and deepen my knowledge.
 
-📫 Let's Connect
+📫 Let's Connect<br>
 If you're interested in discussing collaboration opportunities, have any questions, or just want to say hi, feel free to reach out. You can find me on LinkedIn and Twitter. Let's connect and explore the exciting world of software engineering together!
 
 Looking forward to connecting with you! 😊
+
 
 
 
