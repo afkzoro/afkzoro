@@ -26,7 +26,7 @@
 </h1>
 
 ## About me 👨🏻‍💻
-I'm a passionate software engineer with a specialization in backend development and DevOps. I thrive on constructing robust and scalable systems that power innovative solutions. Alongside my technical expertise, I'm also an ardent technical writer, sharing my knowledge and experiences with the community. With a firm foundation in backend development, I have hands-on experience in designing and implementing efficient APIs, data modeling, and database management. I'm well-versed in various programming languages such as Python, JavaScript, and C, and I enjoy leveraging frameworks and libraries like Django, NodeJs, and Express to accelerate development and ensure code quality. I'm profoundly passionate about DevOps practices and believe in the power of automation and continuous integration/continuous deployment (CI/CD) pipelines. I have expertise in containerization using Docker and orchestration with tools like Kubernetes. I also have experience with cloud platforms such as AWS and Azure, enabling me to deploy scalable and highly available applications.
+Passionate software engineer specializing in backend development, DevOps, and technical writing. Experienced in designing efficient APIs, data modeling, and database management. Skilled in Python, JavaScript, and C, utilizing frameworks like Django, Node.js, and Express. Profoundly passionate about DevOps, automation, and CI/CD pipelines. Experienced with Docker, Kubernetes, AWS, and Azure for scalable deployments.
 
 ✍️ Technical Writing<br>
 In addition to my engineering skills, I'm an enthusiastic technical writer. I enjoy breaking down complex concepts into easily understandable pieces, creating tutorials, guides, and documentation for developers. Through my writing, I aim to empower others with knowledge and help them overcome challenges in their own software development journeys.
@@ -54,6 +54,7 @@ Looking forward to connecting with you! 😊
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -75,5 +76,8 @@ Looking forward to connecting with you! 😊
 
 </div>
 
-## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afkzoro)](https://git.io/streak-stats)
+## :fire: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afkzoro&theme=dark)](https://git.io/streak-stats)
+
+## :writing_hand: Blog Posts
+
