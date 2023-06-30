@@ -76,3 +76,4 @@ Looking forward to connecting with you! 😊
 </div>
 
 ## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afkzoro)](https://git.io/streak-stats)
