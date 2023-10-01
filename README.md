@@ -73,7 +73,6 @@ Looking forward to connecting with you! 😊
  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-
 </div>
 
 ## :fire: My Stats
@@ -81,3 +80,4 @@ Looking forward to connecting with you! 😊
 
 ## :writing_hand: Blog Posts
 
+[![@afkzoro 's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@afkzoro)
