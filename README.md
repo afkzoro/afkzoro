@@ -4,13 +4,13 @@
 
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/samuel-theophilus/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://dev.to/afkzoro">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/afk_zoro">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -40,7 +40,7 @@ If you're interested in discussing collaboration opportunities, have any questio
 Looking forward to connecting with you! 😊
 
 
-## Tech Stack ⚙
+## ⚙ Tech Stack 
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
