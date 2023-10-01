@@ -78,6 +78,5 @@ Looking forward to connecting with you! 😊
 ## :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afkzoro&theme=dark)](https://git.io/streak-stats)
 
-## :writing_hand: Blog Posts
 
 [![@afkzoro 's Holopin board](https://holopin.io/api/user/board?user=afkzoro)](https://holopin.io/@afkzoro)
