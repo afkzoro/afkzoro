@@ -80,4 +80,4 @@ Looking forward to connecting with you! 😊
 
 ## :writing_hand: Blog Posts
 
-[![@afkzoro 's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@afkzoro)
+[![@afkzoro 's Holopin board](https://holopin.io/api/user/board?user=afkzoro)](https://holopin.io/@afkzoro)
