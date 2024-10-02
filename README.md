@@ -26,18 +26,7 @@
 </h1>
 
 ## About me 👨🏻‍💻
-Passionate software engineer specializing in backend development, DevOps, and technical writing. Experienced in designing efficient APIs, data modeling, and database management. Skilled in Python, JavaScript, and C, utilizing frameworks like Django, Node.js, and Express. Profoundly passionate about DevOps, automation, and CI/CD pipelines. Experienced with Docker, Kubernetes, AWS, and Azure for scalable deployments.
-
-✍️ Technical Writing<br>
-In addition to my engineering skills, I'm an enthusiastic technical writer. I enjoy breaking down complex concepts into easily understandable pieces, creating tutorials, guides, and documentation for developers. Through my writing, I aim to empower others with knowledge and help them overcome challenges in their own software development journeys.
-
-🌟 Open Source Contributions<br>
-I actively contribute to open source projects, collaborating with developers worldwide to improve and enhance software tools and libraries. I believe in the power of community-driven development and enjoy sharing my expertise while learning from others.
-
-📫 Let's Connect<br>
-If you're interested in discussing collaboration opportunities, have any questions, or just want to say hi, feel free to reach out. You can find me on LinkedIn and Twitter. Let's connect and explore the exciting world of software engineering together!
-
-Looking forward to connecting with you! 😊
+Hey! I build and deploy stuff.
 
 
 ## ⚙ Tech Stack 
@@ -74,9 +63,3 @@ Looking forward to connecting with you! 😊
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 </div>
-
-## :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afkzoro&theme=dark)](https://git.io/streak-stats)
-
-
-[![@afkzoro 's Holopin board](https://holopin.io/api/user/board?user=afkzoro)](https://holopin.io/@afkzoro)
