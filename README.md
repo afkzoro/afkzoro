@@ -43,7 +43,7 @@ _Check out my author profile if you want to read more [@baeldung](https://www.ba
 <details>
 <summary>Click to expand</summary>
 
-1. **go-wc**: the Unix wc tool written in Golang
+1. **[go-wc](https://github.com/afkzoro/go-wc)**: the Unix wc tool written in Golang.
 </details>
 
 ## 💭 Words to Code By
