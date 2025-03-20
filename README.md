@@ -59,6 +59,6 @@ and it will fail, it will be other people's problem_
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1zfc2goNJ3mOhrPsm9GplRiCLGNh6-X46/view?usp=sharing)
 
 </div>
