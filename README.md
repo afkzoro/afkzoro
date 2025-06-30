@@ -18,7 +18,7 @@ I'm Samuel, a Backend and DevOps engineer focused on distributed systems and clo
 * System design pattern implementation [@system-design](https://github.com/afkzoro/system-design)
 
 ## Certifications
-
+* [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/b78eb4d4-161a-43f6-a08c-ba6eb9455af9/public_url)
 * [Google Cloud Associate Cloud Engineer (ACE)](https://www.credly.com/badges/c3b594c2-c34c-415e-844a-92613d5fd01d/public_url)
 * [ALX Software Engineer](https://drive.google.com/file/d/10RCmj4RxNYMTkVTyoPe0o6NqDMBW0Eum/view)
 * [Docker Essentials](https://courses.cognitiveclass.ai/certificates/23c0befc7e28488fa4ed17b7c255b38c)
